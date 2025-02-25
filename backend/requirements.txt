@@ -1,0 +1,4 @@
+asyncpg==0.30.0
+openai==1.64.0
+psycopg2_binary==2.9.10
+python-dotenv==1.0.1
