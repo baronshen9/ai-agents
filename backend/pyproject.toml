@@ -1,0 +1,4 @@
+[tool.black]
+string-normalization = "single"
+line-length = 88
+target-version = ['py39']
